@@ -1,0 +1,115 @@
+{
+    "config": {
+        "defaultColorBand": {
+            "startRadius": 0.91,
+            "endRadius": 0.985
+        }
+    },
+    "frames": {
+        "tny-ring": {
+            "frame": { "x": 1536, "y": 1024, "w": 128, "h": 128 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+            "sourceSize": { "w": 128, "h": 128 },
+            "anchor": { "x": 0.5, "y": 0.5 },
+            "gridTarget": 0.5,
+            "colorBand": { "startRadius": 0.91, "endRadius": 0.985 },
+            "ringThickness": 0.045
+        },
+        "tny-ring-bkg": {
+            "frame": { "x": 1664, "y": 1024, "w": 128, "h": 128 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+            "sourceSize": { "w": 128, "h": 128 },
+            "anchor": { "x": 0.5, "y": 0.5 }
+        },
+
+        "med-ring": {
+            "frame": { "x": 1024, "y": 1024, "w": 256, "h": 256 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 256 },
+            "sourceSize": { "w": 256, "h": 256 },
+            "anchor": { "x": 0.5, "y": 0.5 },
+            "gridTarget": 1,
+            "colorBand": { "startRadius": 0.91, "endRadius": 0.985 },
+            "ringThickness": 0.045
+        },
+        "med-ring-bkg": {
+            "frame": { "x": 1280, "y": 1024, "w": 256, "h": 256 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 256 },
+            "sourceSize": { "w": 256, "h": 256 },
+            "anchor": { "x": 0.5, "y": 0.5 }
+        },
+
+        "lrg-ring": {
+            "frame": { "x": 0, "y": 1024, "w": 512, "h": 512 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+            "sourceSize": { "w": 512, "h": 512 },
+            "anchor": { "x": 0.5, "y": 0.5 },
+            "gridTarget": 2,
+            "colorBand": { "startRadius": 0.91, "endRadius": 0.985 },
+            "ringThickness": 0.045
+        },
+        "lrg-ring-bkg": {
+            "frame": { "x": 512, "y": 1024, "w": 512, "h": 512 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+            "sourceSize": { "w": 512, "h": 512 },
+            "anchor": { "x": 0.5, "y": 0.5 }
+        },
+
+        "hge-ring": {
+            "frame": { "x": 0, "y": 0, "w": 1024, "h": 1024 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 1024, "h": 1024 },
+            "sourceSize": { "w": 1024, "h": 1024 },
+            "anchor": { "x": 0.5, "y": 0.5 },
+            "gridTarget": 3,
+            "colorBand": { "startRadius": 0.91, "endRadius": 0.985 },
+            "ringThickness": 0.045
+        },
+        "hge-ring-bkg": {
+            "frame": { "x": 1024, "y": 0, "w": 1024, "h": 1024 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 1024, "h": 1024 },
+            "sourceSize": { "w": 1024, "h": 1024 },
+            "anchor": { "x": 0.5, "y": 0.5 }
+        },
+
+        "gnt-ring": {
+            "frame": { "x": 0, "y": 0, "w": 1024, "h": 1024 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 1024, "h": 1024 },
+            "sourceSize": { "w": 1024, "h": 1024 },
+            "anchor": { "x": 0.5, "y": 0.5 },
+            "gridTarget": 4,
+            "colorBand": { "startRadius": 0.91, "endRadius": 0.985 },
+            "ringThickness": 0.045
+        },
+        "gnt-ring-bkg": {
+            "frame": { "x": 1024, "y": 0, "w": 1024, "h": 1024 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 1024, "h": 1024 },
+            "sourceSize": { "w": 1024, "h": 1024 },
+            "anchor": { "x": 0.5, "y": 0.5 }
+        }
+    },
+    "meta": {
+        "image": "rings-external.webp",
+        "format": "RGBA8888",
+        "size": { "w": 2048, "h": 2048 },
+        "scale": "1"
+    }
+}
