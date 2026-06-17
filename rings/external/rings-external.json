@@ -1,8 +1,8 @@
 {
     "config": {
         "defaultColorBand": {
-            "startRadius": 0.91,
-            "endRadius": 0.985
+            "startRadius": 0.885,
+            "endRadius": 0.968
         }
     },
     "frames": {
@@ -14,7 +14,7 @@
             "sourceSize": { "w": 128, "h": 128 },
             "anchor": { "x": 0.5, "y": 0.5 },
             "gridTarget": 0.5,
-            "colorBand": { "startRadius": 0.91, "endRadius": 0.985 },
+            "colorBand": { "startRadius": 0.885, "endRadius": 0.968 },
             "ringThickness": 0.045
         },
         "tny-ring-bkg": {
@@ -34,7 +34,7 @@
             "sourceSize": { "w": 256, "h": 256 },
             "anchor": { "x": 0.5, "y": 0.5 },
             "gridTarget": 1,
-            "colorBand": { "startRadius": 0.91, "endRadius": 0.985 },
+            "colorBand": { "startRadius": 0.885, "endRadius": 0.968 },
             "ringThickness": 0.045
         },
         "med-ring-bkg": {
@@ -54,7 +54,7 @@
             "sourceSize": { "w": 512, "h": 512 },
             "anchor": { "x": 0.5, "y": 0.5 },
             "gridTarget": 2,
-            "colorBand": { "startRadius": 0.91, "endRadius": 0.985 },
+            "colorBand": { "startRadius": 0.885, "endRadius": 0.968 },
             "ringThickness": 0.045
         },
         "lrg-ring-bkg": {
@@ -74,7 +74,7 @@
             "sourceSize": { "w": 1024, "h": 1024 },
             "anchor": { "x": 0.5, "y": 0.5 },
             "gridTarget": 3,
-            "colorBand": { "startRadius": 0.91, "endRadius": 0.985 },
+            "colorBand": { "startRadius": 0.885, "endRadius": 0.968 },
             "ringThickness": 0.045
         },
         "hge-ring-bkg": {
@@ -94,7 +94,7 @@
             "sourceSize": { "w": 1024, "h": 1024 },
             "anchor": { "x": 0.5, "y": 0.5 },
             "gridTarget": 4,
-            "colorBand": { "startRadius": 0.91, "endRadius": 0.985 },
+            "colorBand": { "startRadius": 0.885, "endRadius": 0.968 },
             "ringThickness": 0.045
         },
         "gnt-ring-bkg": {
